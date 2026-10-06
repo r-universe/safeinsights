@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/safeinsights/safeinsights.r-universe.dev
 	branch = HEAD
+[submodule "safeinsights.fusion"]
+	path = safeinsights.fusion
+	url = https://github.com/safeinsights/fusion-sdk
+	subdir = r
