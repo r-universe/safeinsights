@@ -1,0 +1,10 @@
+{
+  "id": 168665400,
+  "created_at": "2026-10-06T22:20:02.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["safeinsights.r-universe.dev"]
+}
